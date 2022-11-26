@@ -1,2 +1,2 @@
 # My-ecommerce-backend
-An ecommerce backend tp compete with other retails stores. 
+An ecommerce backend to compete with other retails stores. 
