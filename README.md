@@ -30,7 +30,7 @@ No contributor so far but you are welcome to contribute.
 This application has been tested using postman.
 
 ## Walkthrough Video: 
-https://drive.google.com/file/d/1pnrUTvMggwbs4mFwGBJlWf1PFaqT7bBn/view
+https://watch.screencastify.com/v/AQN2LbCP8VF0wPWrnh4E
 
 
 ## Questions:
